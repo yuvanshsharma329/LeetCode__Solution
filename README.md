@@ -113,3 +113,15 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 ⭐ If you find this repository useful, feel free to explore the solutions and learn along with me!
 
 **Keep Coding. Keep Learning. Keep Improving. 💻🔥**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0027-remove-element) |
+<!---LeetCode Topics End-->
