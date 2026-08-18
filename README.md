@@ -123,5 +123,10 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0027-remove-element) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
