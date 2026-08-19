@@ -125,11 +125,13 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0061-rotate-list) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0061-rotate-list) |
 ## Divide and Conquer
 |  |
 | ------- |
