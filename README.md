@@ -127,6 +127,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [0027-remove-element](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0148-sort-list) |
 ## Linked List
 |  |
 | ------- |
@@ -134,11 +135,13 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [0023-merge-k-sorted-lists](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0328-odd-even-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -147,6 +150,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -155,4 +159,8 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0009-palindrome-number) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
