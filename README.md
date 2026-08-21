@@ -134,6 +134,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [0023-merge-k-sorted-lists](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0328-odd-even-linked-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0328-odd-even-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
