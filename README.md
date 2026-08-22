@@ -159,6 +159,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0009-palindrome-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sorting
