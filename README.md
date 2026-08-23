@@ -161,6 +161,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | ------- |
 | [0007-reverse-integer](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0009-palindrome-number) |
+| [1927-sum-game](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
@@ -187,4 +188,13 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0008-string-to-integer-atoi) |
+| [1927-sum-game](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1927-sum-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
