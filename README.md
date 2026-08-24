@@ -225,4 +225,16 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1872-stone-game-viii) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
