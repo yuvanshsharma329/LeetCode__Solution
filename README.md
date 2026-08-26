@@ -1,4 +1,3 @@
-Yes. For a **LeetCode solutions repository**, keep the README professional but simple. Since you're a 2nd-year CSE student, it's also good to show your consistency and DSA learning journey.
 
 # 🚀 LeetCode Solutions
 
@@ -40,23 +39,6 @@ As I progress, this repository will include problems related to:
 * Two Pointers
 * Sliding Window
 * Bit Manipulation
-
-## 📂 Repository Structure
-
-```text
-LeetCode-Solutions/
-│
-├── Arrays/
-├── Strings/
-├── Linked-List/
-├── Stack/
-├── Queue/
-├── Binary-Search/
-├── Trees/
-├── Graphs/
-├── Dynamic-Programming/
-└── README.md
-```
 
 ## 📊 Progress
 
@@ -106,7 +88,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 
 ### 🔗 Coding Profile
 
-**LeetCode:** [My LeetCode Profile](https://leetcode.com/)
+**LeetCode:** [My LeetCode Profile](https://leetcode.com/u/yuvanshsharma/)
 
 ---
 
