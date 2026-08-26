@@ -195,6 +195,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0008-string-to-integer-atoi) |
 | [1927-sum-game](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
 | ------- |
@@ -239,4 +240,8 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0232-implement-queue-using-stacks) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
