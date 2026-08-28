@@ -115,6 +115,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [0061-rotate-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0148-sort-list) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -179,6 +180,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [1927-sum-game](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -237,4 +239,5 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
