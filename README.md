@@ -105,6 +105,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [1563-stone-game-v](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1872-stone-game-viii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -246,4 +247,8 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
