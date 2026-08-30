@@ -102,6 +102,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0027-remove-element) |
+| [1386-cinema-seat-allocation](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -168,6 +169,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -188,6 +190,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -200,6 +203,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
