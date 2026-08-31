@@ -105,6 +105,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [1386-cinema-seat-allocation](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1872-stone-game-viii) |
+| [2029-stone-game-ix](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -156,6 +157,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [1563-stone-game-v](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1927-sum-game) |
+| [2029-stone-game-ix](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
@@ -193,6 +195,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1927-sum-game) |
+| [2029-stone-game-ix](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
@@ -201,6 +204,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [1563-stone-game-v](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1927-sum-game) |
+| [2029-stone-game-ix](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,6 +221,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1872-stone-game-viii) |
+| [2029-stone-game-ix](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -225,6 +230,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1872-stone-game-viii) |
+| [2029-stone-game-ix](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -244,6 +250,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -258,4 +265,8 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
