@@ -111,6 +111,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -175,6 +176,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Combinatorics
 |  |
@@ -212,6 +214,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
@@ -271,4 +274,12 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2029-stone-game-ix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
