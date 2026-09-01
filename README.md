@@ -102,6 +102,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0027-remove-element) |
+| [1140-stone-game-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1872-stone-game-viii) |
@@ -156,6 +157,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | ------- |
 | [0007-reverse-integer](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0009-palindrome-number) |
+| [1140-stone-game-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1927-sum-game) |
@@ -205,6 +207,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1927-sum-game) |
@@ -220,20 +223,24 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2029-stone-game-ix) |
 ## Stack
