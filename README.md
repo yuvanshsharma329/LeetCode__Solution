@@ -141,6 +141,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -180,6 +181,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0191-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
