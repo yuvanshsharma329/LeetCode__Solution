@@ -204,6 +204,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0008-string-to-integer-atoi) |
 | [0115-distinct-subsequences](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -239,6 +240,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | ------- |
 | [0115-distinct-subsequences](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1872-stone-game-viii) |
