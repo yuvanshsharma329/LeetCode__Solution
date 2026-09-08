@@ -165,6 +165,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [0007-reverse-integer](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1563-stone-game-v) |
@@ -318,5 +319,6 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
