@@ -175,6 +175,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [1927-sum-game](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2029-stone-game-ix) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2169-count-operations-to-obtain-zero](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -308,6 +309,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 ## Simulation
 |  |
 | ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Nim Game
 |  |
