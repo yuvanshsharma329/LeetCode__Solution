@@ -164,6 +164,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | ------- |
 | [0007-reverse-integer](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0342-power-of-four) |
@@ -248,6 +249,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0940-distinct-subsequences-ii) |
@@ -330,4 +332,8 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [0326-power-of-three](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0486-predict-the-winner) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
