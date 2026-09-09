@@ -169,6 +169,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [0342-power-of-four](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1140-stone-game-ii) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1563-stone-game-v](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1927-sum-game) |
@@ -192,6 +193,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [0191-number-of-1-bits](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0342-power-of-four) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
