@@ -102,6 +102,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1140-stone-game-ii) |
@@ -195,6 +196,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0342-power-of-four) |
@@ -338,4 +340,8 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
