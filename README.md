@@ -105,6 +105,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [0078-subsets](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1386-cinema-seat-allocation) |
@@ -134,6 +135,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [0088-merge-sorted-array](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0349-intersection-of-two-arrays) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Linked List
 |  |
@@ -191,10 +193,12 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0148-sort-list) |
+| [0349-intersection-of-two-arrays](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0349-intersection-of-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0349-intersection-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
@@ -247,6 +251,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
