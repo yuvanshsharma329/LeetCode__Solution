@@ -103,6 +103,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | ------- |
 | [0027-remove-element](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1140-stone-game-ii) |
@@ -130,6 +131,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [0027-remove-element](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0283-move-zeroes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -187,6 +189,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0148-sort-list) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search
