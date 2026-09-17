@@ -104,6 +104,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [0027-remove-element](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0486-predict-the-winner) |
@@ -204,6 +205,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0342-power-of-four) |
