@@ -105,6 +105,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [0078-subsets](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0486-predict-the-winner) |
@@ -153,6 +154,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
@@ -194,6 +196,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0349-intersection-of-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search
@@ -253,6 +256,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -311,6 +315,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
@@ -354,4 +359,8 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0078-subsets) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
