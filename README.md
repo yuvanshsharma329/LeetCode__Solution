@@ -104,6 +104,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | [0027-remove-element](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0283-move-zeroes) |
@@ -269,6 +270,7 @@ Every solved problem is another step toward becoming a better programmer. 🚀
 | ------- |
 | [0070-climbing-stairs](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/yuvanshsharma329/LeetCode__Solution/tree/master/1140-stone-game-ii) |
